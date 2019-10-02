@@ -1,0 +1,7 @@
+# include<locale.h> // biblioteca a ser declarada
+
+setlocale(LC_ALL, "Portuguese"); // comando a ser utilizado para habilitar a 
+linguagem de acentuação após declarar a variável
+
+system("pause>>null");// o null serve para não exibir a menssagem após 
+finalizar o programa

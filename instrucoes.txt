@@ -1,0 +1,41 @@
+// - comentário de linha
+/* comentário de bloco - comentário que ocupa várias
+linhas */ 
+
+/*
+Declaração de bibliotecas 
+#include <nomedabiblioteca>
+
+Exemplos:
+#include <stdio.h>
+biblioteca que contém as funções: printf() e scanf()
+
+#include <stdlib.h>
+biblioteca que contém a função system()
+
+Declaração de variáveis
+int 		- inteiro : números inteiros (4 bytes)
+float		- real : números reais (8 bytes)
+double		- real : números reais (16 bytes)
+caractere 	- caracteres (letras, números, símbolos, ...)
+1 byte
+
+%c - caractere
+%f - float ou double
+%i ou %d - int
+%s - string
+
+printf () - função para mostrar mensagem na tela.
+scanf() - função para ler uma informação por meio do
+teclado
+
+
+
+
+
+
+
+
+
+
+
