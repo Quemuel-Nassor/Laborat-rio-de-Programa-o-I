@@ -8,6 +8,7 @@ Universidade: Unaerp.
 Neste primeiro módulo foi empregada intrudução à lógica de programação com linguagem C.
 
 # Conteúdo:
+<p>&emsp; Fluxogramas<p>
 <p>&emsp; Tipos de dados<p>
 <p>&emsp; Estruturas de repetição<p>
 <p>&emsp; Estruturas condicionais<p>
