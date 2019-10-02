@@ -5,7 +5,7 @@ Autor: Quemuel Alves Nassor.
 
 Universidade: Unaerp.
 
-Neste primeiro módulo foi empregada intrudução à lógica de programação com linguagem C.
+Neste primeiro módulo foi empregada introdução à lógica de programação com linguagem C.
 
 # Conteúdo:
 <p>&emsp; Fluxogramas<p>
